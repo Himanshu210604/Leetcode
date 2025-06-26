@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Himanshu210604/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Himanshu210604/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Himanshu210604/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu210604/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Himanshu210604/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Himanshu210604/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Himanshu210604/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -36,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Himanshu210604/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu210604/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
