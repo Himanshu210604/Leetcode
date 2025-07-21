@@ -6,7 +6,7 @@ public:
             nums1[i] = nums2[j++];
         }
         sort(nums1.begin(),nums1.end());
-auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
+
         
         
     }
