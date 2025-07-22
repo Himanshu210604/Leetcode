@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Himanshu210604/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Himanshu210604/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Himanshu210604/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Himanshu210604/Leetcode/tree/master/0189-rotate-array) |
