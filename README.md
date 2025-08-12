@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Himanshu210604/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Himanshu210604/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Himanshu210604/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/Himanshu210604/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3227-find-missing-and-repeated-values](https://github.com/Himanshu210604/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -151,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Himanshu210604/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu210604/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu210604/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/Himanshu210604/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3227-find-missing-and-repeated-values](https://github.com/Himanshu210604/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Himanshu210604/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshu210604/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/Himanshu210604/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Greedy
 |  |
 | ------- |
