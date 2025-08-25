@@ -3,7 +3,7 @@ public:
     int maxSum(vector<vector<int>>& grid) { 
         int r = grid.size(); 
         int c = grid[0].size(); 
-        int maxSum = 0;
+        int maxSum = -1; 
 
         for (int i = 0; i <= r - 3; i++) {
             for (int j = 0; j <= c - 3; j++) {
@@ -13,6 +13,6 @@ public:
                 maxSum = max(maxSum, sum);
             }
         }
-        return maxSum; 
-    }
-};
+        return maxSum;  
+    } 
+};   
