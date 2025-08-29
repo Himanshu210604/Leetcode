@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Himanshu210604/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Himanshu210604/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Himanshu210604/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2481-strictly-palindromic-number](https://github.com/Himanshu210604/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Himanshu210604/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Himanshu210604/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu210604/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Himanshu210604/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/Himanshu210604/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Himanshu210604/Leetcode/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Himanshu210604/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
