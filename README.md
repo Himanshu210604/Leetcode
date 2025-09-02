@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Himanshu210604/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Himanshu210604/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Himanshu210604/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Himanshu210604/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshu210604/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Himanshu210604/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Himanshu210604/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Himanshu210604/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Himanshu210604/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Himanshu210604/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Himanshu210604/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Himanshu210604/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Himanshu210604/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Himanshu210604/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Himanshu210604/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Himanshu210604/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Himanshu210604/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Himanshu210604/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Himanshu210604/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Himanshu210604/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Himanshu210604/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Himanshu210604/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Himanshu210604/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Greedy
 |  |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Himanshu210604/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Himanshu210604/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Himanshu210604/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Himanshu210604/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Enumeration
 |  |
 | ------- |
