@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Himanshu210604/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Himanshu210604/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Himanshu210604/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu210604/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Himanshu210604/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Himanshu210604/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Himanshu210604/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Himanshu210604/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Himanshu210604/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Himanshu210604/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Himanshu210604/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Himanshu210604/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Himanshu210604/Leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
