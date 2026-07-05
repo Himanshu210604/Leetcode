@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Himanshu210604/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Himanshu210604/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Himanshu210604/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Himanshu210604/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Himanshu210604/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Himanshu210604/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Himanshu210604/Leetcode/tree/master/0231-power-of-two) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshu210604/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Himanshu210604/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu210604/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Himanshu210604/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu210604/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himanshu210604/Leetcode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Himanshu210604/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
